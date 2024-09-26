@@ -1,0 +1,9 @@
+replicaCount: 2
+image:
+  repository: pdpredi/node-app
+  tag: latest
+  pullPolicy: IfNotPresent
+service:
+  type: LoadBalancer
+  port: 8080
+  targetPort: 8080
