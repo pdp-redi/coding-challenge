@@ -1,7 +1,10 @@
 # Infrastructure Provisioning with Terraform, Node Application Deployment using ECR Image in ECS, and CI/CD Automation with GitHub Actions
 
 
-This repository contains(Task 2: IaC) the infrastructure code and workflows for deploying a Node-Todo application on AWS using Terraform, ECR, and ECS. For other tasks you can check files in this repo (Task 1: Scripting = task1-backup.sh, Task 3: Processes = task3.md) Here is the sample for deployed Node-todo application.
+In this repository, I’ve approached the assignment as a real-world use case. Specifically, for Task 2: IaC, you will find the infrastructure code and workflows for deploying a Node-Todo application on AWS using Terraform, ECR, and ECS. For the other tasks, please refer to the following files:
+
+Task 1: Scripting - [task1-backup.sh]
+Task 3: Processes - [task3.md]
 
 ![Alt text](node.png)
 
